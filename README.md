@@ -88,5 +88,3 @@ The main code consists of the following parts:
      await multipleFun();
    });
    ```
-
-# AI-ChatBot-OpenAI
